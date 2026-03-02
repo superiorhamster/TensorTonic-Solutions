@@ -13,4 +13,3 @@ def matrix_transpose(A):
             B[j][i] = A[i][j]
 
     return B
-    pass
